@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnhancedForLoop
+comment1.params=nums
+comment1.target=double\ mean(double[])
+comment2.params=nums
+comment2.target=double\ max(double[])
+comment3.params=nums
+comment3.target=int\ sumEvenVals(int[])
+comment4.params=phrase
+comment4.target=int\ vowelCount(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
