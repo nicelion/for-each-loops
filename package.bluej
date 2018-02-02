@@ -2,10 +2,10 @@
 dependency1.from=EnhancedForLoop
 dependency1.to=Pet
 dependency1.type=UsesDependency
-editor.fx.0.height=640
-editor.fx.0.width=816
-editor.fx.0.x=355
-editor.fx.0.y=162
+editor.fx.0.height=744
+editor.fx.0.width=1382
+editor.fx.0.x=-8
+editor.fx.0.y=-8
 objectbench.height=66
 objectbench.width=591
 package.divider.horizontal=0.6
